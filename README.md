@@ -10,6 +10,8 @@ O servidor matricula será responsável pela alocaçao de alunos e professores e
 
 Um maior detalhamento do projeto pode ser encontrado [aqui](https://paulo-coelho.github.io/ds_notes/projeto/).
 
+[VÍDEO DEMONSTRAÇÃO](https://www.youtube.com/watch?v=LQoROKoWqOw)
+
 ## Requisitos
 
 - Java

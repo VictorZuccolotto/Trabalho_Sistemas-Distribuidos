@@ -21,8 +21,8 @@ Um maior detalhamento do projeto pode ser encontrado [aqui](https://paulo-coelho
 1. Baixe o projeto do git
 
 2. Com o terminal no diretório do projeto:
-```
-$ ./gradlew installDist
+```bash
+./gradlew installDist
 ```
 Isso criará os arquivos necessários para executar os clientes e servidores
 
